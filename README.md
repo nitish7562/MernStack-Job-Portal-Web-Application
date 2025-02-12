@@ -19,5 +19,5 @@ This is a full-stack job portal application built using the MERN (MongoDB, Expre
 
 ### Clone the repository
 ```sh
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
+git clone https://github.com/your-username/MernStack-Job-Portal-Web-Application.git
+cd MernStack-Job-Portal-Web-Application
